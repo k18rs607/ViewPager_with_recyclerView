@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VIewPager</string>
+    <string name="cardaprica">Quarantine</string>
+    <string name="text_title"> Place in isolation to prevent the spread of disease.</string>
+    <string name="text_info">A place for such isolation or the condition of being so isolated.
+        “All animal entering the country are placed in quarantine for six m can
+        be abbreviated as quarantine</string>
+
+</resources>
