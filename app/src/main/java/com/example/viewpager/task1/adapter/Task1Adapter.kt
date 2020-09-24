@@ -18,3 +18,4 @@ class Task1Adapter(private val data: List<Task1Data>, activity: FragmentActivity
         putInt("COLOR_ID",data[position].colorID)
     }
 }
+
